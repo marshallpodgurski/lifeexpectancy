@@ -8,3 +8,6 @@ Data Source - https://www.kaggle.com/datasets/lashagoch/life-expectancy-who-upda
 
 
 <img width="1440" alt="dashboardpic" src="https://github.com/marshallpodgurski/lifeexpectancy/assets/103097700/e8b9a9d4-9393-4ff6-9dc3-75bcaf7d03e3">
+
+
+<img width="846" alt="regionovertime" src="https://github.com/marshallpodgurski/lifeexpectancy/assets/103097700/3def759e-fc96-452a-ae53-7e06805cef7a">
