@@ -2,7 +2,7 @@
 
 Using Excel, cleaned, extracted and visualized life expectancy data from the **World Health Organization** 
 
-The data set included 15 years of data from 178 countries that including factors such as BMI, infant mortality, vaccination percentages, GDP, population, years of schooling and more. 
+The data set includes 15 years of data from 178 countries that contains information on BMI, infant mortality, vaccination percentages, GDP, population, years of schooling and more. 
 
 To browse the data, pivot tables, interact with the dashboard and "take a look under the hood", you'll have to download the .xlsx file by clicking on **life_expectancy.xlsx** then clicking "View Raw".
 
